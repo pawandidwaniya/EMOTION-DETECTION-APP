@@ -1,2 +1,2 @@
 # EMOTION-DETECTION-APP
-The app uses text as input to detect the sentiment in the text.
+The Web application uses text as input to detect the sentiment in the text.
